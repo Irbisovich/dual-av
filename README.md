@@ -26,3 +26,10 @@ https://github.com/VirusTotal/yara
 It has Apache 2.0 license.
 
 https://www.apache.org/licenses/LICENSE-2.0.txt
+
+### Can I use DualAV engine for my antivirus?
+
+Yes, you can, but you need to:
+
+1. Apply GPL 3.0 or Apache 2.0 to your code.
+2. Keep the authorship of engine by me.
