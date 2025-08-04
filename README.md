@@ -20,3 +20,9 @@ https://github.com/VirusTotal/yara
 2. Kivy-based GUI
 3. Real Time checking
 4. Custom pattern base (_need hosting_)
+
+### What license it have?
+
+It has Apache 2.0 license.
+
+https://www.apache.org/licenses/LICENSE-2.0.txt
