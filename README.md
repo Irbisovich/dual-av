@@ -5,3 +5,5 @@ DualAV - open source antivirus, that uses Yara and Qiling to detect malicious so
 # What is a Qiling?
 
 Qiling - powerful VM, that can emulate Windows API. DualAV uses Qiling to detect suspicious API calls. It can detect ransomware and other types of malware.
+
+https://github.com/qilingframework/qiling
