@@ -34,3 +34,4 @@ Yes, you can, but you need to:
 1. Apply GPL 2.0 to your code.
 2. Keep the authorship of engine by me.
 3. Add BSD-3-Clause license in file _licenses/YARA-LICENSE_.
+4. Add GNU GPL 2.0 license in file _licenses/QILING-LICENSE_.
