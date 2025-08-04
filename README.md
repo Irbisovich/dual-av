@@ -9,3 +9,7 @@ Qiling - powerful VM, that can emulate Windows API. DualAV uses Qiling to detect
 https://github.com/qilingframework/qiling
 
 # What is an YARA?
+
+YARA - tool from VirusTotal for detecting types of malicious software. DualAV uses YARA to detect malware with patterns, that included in official YARA repository.
+
+https://github.com/VirusTotal/yara
